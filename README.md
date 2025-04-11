@@ -1,2 +1,1 @@
 # ShahnamehAI
-Shahnameh+AI
